@@ -8,6 +8,8 @@ This is the official code of [nnLoGoNet: Retinal Vessel Segmentation via Local-G
 - Move **nnUNetTrainer_LoGoNet.py** to **.../nnUNet/nnunetv2/training/nnUNetTrainer/** of the configured nnUNet
 
 - Use nnLoGoNet just like nnUNet:
+  
+- Other necessary files you can find on our repo.
 ## Download datasets
 ### 📊 Dataset Overview
 
