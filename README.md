@@ -66,10 +66,8 @@ nnUNetv2_predict -i .../nnUNetFrame/nnUNet_raw/Dataset11_your_dataset/imagesTs/ 
 
 
 ## Datasets Images
-> Optical Coherence To- mography Angiography(OCTA) images.   
-![OCTA Images](./figures/OCTAimages.png)
-> Color Fundus Photography (CFP) images.
-![CFP Images](./figures/CFPimages.png)
+![OCTA Images](./figures/OCTA+CFP_images.png)
+
 
 
 
