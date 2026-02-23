@@ -64,26 +64,29 @@ nnUNetv2_predict -i .../nnUNetFrame/nnUNet_raw/Dataset11_your_dataset/imagesTs/ 
 
 
 ## Datasets Images
+> Optical Coherence To- mography Angiography(OCTA) images.   
+[figure_1_OCTA_images.pdf](https://github.com/user-attachments/files/25482175/figure_1_OCTA_images.pdf)
+> Color Fundus Photography (CFP) images.
+[figure_CFP_images.pdf](https://github.com/user-attachments/files/25482183/figure_CFP_images.pdf)
+
 
 
 
 ## The Overview of nnLoGoNet.
+[figure_2_nnLoGoNet.pdf](https://github.com/user-attachments/files/25482216/figure_2_nnLoGoNet.pdf)
+[figure_3_PAM.pdf](https://github.com/user-attachments/files/25482217/figure_3_PAM.pdf)
+[figure_4_SDPA.pdf](https://github.com/user-attachments/files/25482220/figure_4_SDPA.pdf)
 
 
 
 ## Quantitative Comparison
+[figure_5_results.pdf](https://github.com/user-attachments/files/25482229/figure_5_results.pdf)
+[figure_CFP_results.pdf](https://github.com/user-attachments/files/25482230/figure_CFP_results.pdf)
 
 
 
 ## Qualitative Comparison
-<p align="center">
-<img src="https://github.com/Yanfeng-Zhou/nnWNet/blob/main/figure/Qualitative%20results%20of%20different%20models%20on%202D%20datasets.png" width="100%" >
-<br>(a) Raw images. (b) Ground truth. (c) TransAttUNet. (d) nnUNet. (e) nnWNet.
-</p>
-<p align="center">
-<img src="https://github.com/Yanfeng-Zhou/nnWNet/blob/main/figure/Qualitative%20results%20of%20different%20models%20on%203D%20datasets.png" width="100%" >
-<br>(a) Raw images. (b) Ground truth. (c) CoTr. (d) nnUNet. (e) nnWNet.
-</p>
+
 
 ## Citation
 >If our work is useful for your research, please cite our paper:
